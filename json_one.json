@@ -1,0 +1,29 @@
+[
+  {
+    "guid": "29e8d316-99ba-43b0-92ef-4c42a7aeec0f",
+    "officeId": 1,
+    "city": "Санкт-Петербург",
+    "street": "ул. Чайковского",
+    "house": "д. 79",
+    "building": "",
+    "phoneNumber": "+7 812 428 74 09"
+  },
+  {
+    "guid": "64166dcf-2e97-4061-a354-c203b33f8a46",
+    "officeId": 2,
+    "city": "Санкт-Петербург",
+    "street": "16-я линия В.О.",
+    "house": "д. 7",
+    "building": "офис 1101",
+    "phoneNumber": "+7 812 428 74 09"
+  },
+  {
+    "guid": "229b79d9-2f2f-44a3-95a3-e4d5f0ff486f",
+    "officeId": 3,
+    "city": "Петергоф",
+    "street": "Чичеринская ул.",
+    "house": "д. 2",
+    "building": "литера А, пом. 5-Н",
+    "phoneNumber": "+7 812 428 74 09"
+  }
+]

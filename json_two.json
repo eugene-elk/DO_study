@@ -1,0 +1,63 @@
+[
+    {
+        "spaceName": "Первый этаж",
+        "spaceGuid": "space_011",
+        "officeGuid": "office_001",
+        "spaces": [
+            {
+                "spaceName": "Переговорка Capella",
+                "spaceGuid": "space_111",
+                "officeGuid": "office_001",
+                "spaces": [],
+                "map": {
+                    "mapGuid": "map_002",
+                    "content": "<rect x='5' y='5' width='250' height='400' fill='#FFFFFF' stroke='#777777' stroke-width='4' stroke-linejoin='round' />"
+                },
+                "spaceType": {
+                    "spaceTypeGuid": "type_002",
+                    "bookable": "true",
+                    "name": "meetingroom",
+                    "description": "Тут может быть описание spaceType meetingroom"
+                },
+                "workplaces": null,
+                "capacity": 10,
+                "description": "Тут может быть описание переговорки",
+                "floor": 1
+            },
+            {
+                "spaceName": "Коворкинг",
+                "spaceGuid": "space_211",
+                "officeGuid": "office_001",
+                "spaces": [],
+                "map": {
+                    "mapGuid": "map_003",
+                    "content": "<rect x='255' y='5' width='250' height='400' fill='#FFFFFF' stroke='#777777' stroke-width='4' stroke-linejoin='round' />"
+                },
+                "spaceType": {
+                    "spaceTypeGuid": "type_003",
+                    "bookable": "false",
+                    "name": "covorking",
+                    "description": "Тут может быть описание spaceType covorking"
+                },
+                "workplaces": null,
+                "capacity": 10,
+                "description": "Тут может быть описание коворкинга",
+                "floor": 1
+            }
+        ],
+        "map": {
+            "mapGuid": "map_001",
+            "content": "<rect x='5' y='5' width='700' height='700' fill='#FFFFFF' stroke='#777777' stroke-width='4' tstroke-linejoin='round' />"
+        },
+        "spaceType": {
+            "spaceTypeGuid": "type_001",
+            "bookable": "false",
+            "name": "floor",
+            "description": "Тут может быть описание spaceType floor"
+        },
+        "workplaces": null,
+        "capacity": 1,
+        "description": "Тут может быть описание этажа",
+        "floor": 1
+    }
+]
